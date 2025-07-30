@@ -8,12 +8,13 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
-    color: #333;
+    color: #BLUE
+
 }
 
 header {
     background-color: #333;
-    color: white;
+    color: black;
     padding: 10px 0;
     text-align: center;
 }
@@ -32,7 +33,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: BLACK;
+    color: PINK;
     text-decoration: none;
     font-weight: bold;
 }
